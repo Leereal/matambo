@@ -9,6 +9,7 @@ from playsound import playsound
 
 email = ""
 password = ""
+passw
 
 API = IQ_Option(email,password)
 
